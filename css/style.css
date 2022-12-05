@@ -1,0 +1,23 @@
+#navigationbar {
+    background: greenyellow;
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+#lise {
+    height: 85px;
+    width: 110px;
+}
+
+#christmas_nav {
+
+}
+
+.nav {
+    background-color: pink;
+}
+
+#under_nav {
+    display: flex;
+}
