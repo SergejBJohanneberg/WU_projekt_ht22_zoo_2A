@@ -1,23 +1,66 @@
+body {
+    margin: 0px;
+    font-family: system-ui;
+    background-image: url("/misc/zooback1.jpg");
+    background-position: 0px 65px; 
+    background-repeat: no-repeat;
+}
+
 #navigationbar {
     background: greenyellow;
     width: 100%;
-    height: 50%;
+    height: 30px;
     display: flex;
-}
-
-#lise {
-    height: 85px;
-    width: 110px;
-}
-
-#christmas_nav {
-
+    top: 0px;
+    position: fixed;
+    
 }
 
 .nav {
-    background-color: pink;
+    display: flex;
+    margin-top: 4.5px;
+    font-size: 15px;
+
 }
 
-#under_nav {
-    display: flex;
+#profile {
+    justify-self: end;
 }
+
+#lise {
+    height: 60px;
+    width: 70px;
+    margin-left: 10px;
+}
+
+
+#under_nav {
+    background-color: rgb(180, 102, 102);
+    display: flex;
+    margin-top: 30px;
+    height: 60px;
+}
+
+.u_nav {
+    margin: 15px;
+    font-size: 20px;
+}
+
+#podpers1 {
+    height: 200px;
+    width: auto;
+    border-radius: 180px;
+}
+
+#podpers2 {
+    height: 200px;
+    width: auto;
+    border-radius: 180px;
+}
+
+.podcast {
+
+}
+
+
+535px höjd bakgrundsbild
